@@ -6,14 +6,14 @@ What happens when the most popular CMS meets Gatsby.
 
 &nbsp;
 
-![Gatsby Logo](./gatsby-logo.png#logo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WordPress Logo](./wp-logo.png#logo)
+![Gatsby](./gatsby-logo.png#logo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WordPress](./wp-logo.png#logo)
 
 &nbsp;
 
 GatsbyJS Montréal Meetup
 
 
-![rtCamp Logo](./rtcamp.jpg#rtcamp)
+![rtCamp](./rtcamp.jpg#rtcamp)
 
 ---
 

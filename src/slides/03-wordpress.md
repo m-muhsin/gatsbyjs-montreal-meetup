@@ -1,4 +1,4 @@
-![WordPress Logo](./wp-logo.png#logo)
+![WordPress](./wp-logo.png#logo-md)
 
 ---
 
