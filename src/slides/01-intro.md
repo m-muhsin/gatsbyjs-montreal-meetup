@@ -1,25 +1,28 @@
-# Gatsby Deck
+&nbsp;
 
-Create presentations using Gatsby & React.
+# Building with Gatsby and WordPress
+
+What happens when the most popular CMS meets Gatsby.
+
+&nbsp;
+
+![Gatsby Logo](./gatsby-logo.png#logo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WordPress Logo](./wp-logo.png#logo)
+
+&nbsp;
+
+GatsbyJS Montréal Meetup
+
+
+![rtCamp Logo](./rtcamp.jpg#rtcamp)
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+# Muhammad Muhsin
 
----
+- React Developer, rtCamp
+- Lead Developer, [GatsbyWPThemes](https://GatsbyWPThemes.com) Project
+- Author and Expert Reviewer, Smashing Magazine
+- Lives in Colombo, Sri Lanka
+- Loves Open Source
 
-# 🤫
-
----
-
-## Slides are written in Markdown!
-
-Here's the source of the first slide:
-
-    # Gatsby Deck
-
-    Create presentations using Gatsby & React.
+[@muhsinlk](https://twitter.com/muhsinlk) | [muhammad.dev](https://muhammad.dev)

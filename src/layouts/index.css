@@ -1,9 +1,10 @@
 :root {
-  --bg: #fdfdfd;
-  --meta: #888;
-  --accent: #3178cd;
-  --text: black;
+  --bg: #4378b8;
+  --meta: #eaeaea;
+  --accent: #eaeaea;
+  --text: white;
   --base: 1.5rem;
+  --blue: #4378b8;
 }
 
 @media (max-width: 600px) {
@@ -32,7 +33,7 @@ html {
   padding: 0;
 
   color: var(--text);
-  background-color: var(--bg);
+  background-color: var(--blue);
 }
 
 #slide {
@@ -162,9 +163,20 @@ time {
 }
 
 header a:hover {
-  color: var(--meta);
+  color: var(--text);
 }
 
 header span {
   color: var(--text);
+}
+
+img[src*="#logo"] {
+  width:150px;
+  height:150px;
+}
+
+img[src*="#rtcamp"] {
+  width:250px;
+  text-align: right;
+  float: right;
 }
