@@ -16,7 +16,7 @@
 
 ---
 
-## Thank you! 😊
+# Thank you! 😊
 
 ---
 
