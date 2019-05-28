@@ -1,4 +1,4 @@
-![Gatsby](./gatsby-logo.png#logo-md)
+![Gatsby](./gatsby-logo.png)
 
 ---
 

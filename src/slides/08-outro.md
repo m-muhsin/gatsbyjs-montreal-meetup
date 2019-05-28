@@ -3,20 +3,20 @@
 - Gatsby
 - WordPress
 - gatsby-source-wordpress
-- gatsby-source-grapql
+- gatsby-source-graphql
 - WPGraphQL
 - Gatsby Themes
 - Gatsby WordPess Themes
 
 ---
 
-#We are hiring! 🤗
+# We are hiring! 🤗
 
-# [rt.camp/join](https://rt.camp/join)
+## [rt.camp/join](https://rt.camp/join)
 
 ---
 
-Thank you! 😊
+## Thank you! 😊
 
 ---
 

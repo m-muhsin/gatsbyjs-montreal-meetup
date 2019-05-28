@@ -9,7 +9,7 @@
 
 ---
 
-![WPGraphQL](./a.png#logo-md)
+![WPGraphQL](./wpgraphql-logo.png)
 
 ---
 
