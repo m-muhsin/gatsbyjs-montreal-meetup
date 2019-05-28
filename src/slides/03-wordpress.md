@@ -1,4 +1,4 @@
-![WordPress](./wp-logo.png)
+![WordPress](./WordPress Logo.png)
 
 ---
 
