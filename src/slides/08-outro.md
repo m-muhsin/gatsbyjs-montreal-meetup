@@ -22,13 +22,17 @@
 
 ## This presentation was created with Gatsby + Markdown
 
+[Slides](https://gatsbyjs-montreal-meetup.muhammad.dev/)
+
+[Source](https://github.com/m-muhsin/gatsbyjs-montreal-meetup)
+
 ---
 
 # Resources
 
 - [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme)
 - [Tabor Gatsby Theme](https://github.com/zgordon/tabor-gatsby-theme)
-- [To create Presentations with Gatsby](https://github.com/fabe/gatsby-starter-deck)
+- [To create Presentations with Gatsby + Markdown](https://github.com/fabe/gatsby-starter-deck)
 
 ---
 
