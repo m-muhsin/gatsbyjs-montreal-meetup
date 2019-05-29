@@ -8,7 +8,7 @@ What happens when the most popular CMS meets Gatsby.
 
 <div class="logos">
 
-![Gatsby](./gatsby-logo.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WordPress](./wp-logo.png)
+![Gatsby](./Gatsby Logo.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![WordPress](./WordPress Logo.png)
 
 </div>
 
@@ -18,7 +18,7 @@ GatsbyJS Montréal Meetup
 
 <div class="rtcamp">
 
-![rtCamp](./rtcamp.jpg)
+![rtCamp](./rtCamp-Logo-white@2x.png)
 
 </div>
 

@@ -18,7 +18,8 @@
 - Super secure 
 - Very cheap
 - Awesome Developer Experience (DX)
-- Easy to get started (Learn React on the go)
+- Easy to get started 
+- Learn React and GraphQL on the go
 
 ## Why not Gatsby?
 

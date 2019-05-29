@@ -20,11 +20,11 @@
 
 ---
 
-## This presentation was created with Gatsby + Markdown
+## This presentation was created with Gatsby + Markdown!
 
-[Slides](https://gatsbyjs-montreal-meetup.muhammad.dev/)
+[gatsbyjs-montreal-meetup.muhammad.dev](https://gatsbyjs-montreal-meetup.muhammad.dev/)
 
-[Source](https://github.com/m-muhsin/gatsbyjs-montreal-meetup)
+[github.com/m-muhsin/gatsbyjs-montreal-meetup](https://github.com/m-muhsin/gatsbyjs-montreal-meetup)
 
 ---
 
