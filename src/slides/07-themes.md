@@ -16,6 +16,6 @@
 - Brings WordPress themes to Gatsby
 - Initiated by [Zac Gordon](https://twitter.com/zgordon)
 - Two themes developed so far
-- Check out [GatsbyWPThemes](https://GatsbyWPThemes.com)
 - [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme)
 - [Tabor Gatsby Theme](https://github.com/zgordon/tabor-gatsby-theme)
+- Check out [GatsbyWPThemes](https://GatsbyWPThemes.com)
