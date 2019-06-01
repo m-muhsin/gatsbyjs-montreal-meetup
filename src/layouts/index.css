@@ -215,6 +215,12 @@ img {
   float: right;
 }
 
+.muhammad p a span {
+  width: 100px;
+  text-align: left;
+  float: left;
+}
+
 #slide ul {
   max-width: 1320px;
   margin-left: auto;

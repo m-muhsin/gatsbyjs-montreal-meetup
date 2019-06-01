@@ -17,4 +17,5 @@
 - Initiated by [Zac Gordon](https://twitter.com/zgordon)
 - Two themes developed so far
 - Check out [GatsbyWPThemes](https://GatsbyWPThemes.com)
-- Step-by-step [tutorial](https://javascriptforwp.com/porting-the-twenty-nineteen-wordpress-theme-to-gatsby/)
+- [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme)
+- [Tabor Gatsby Theme](https://github.com/zgordon/tabor-gatsby-theme)

@@ -30,8 +30,9 @@
 
 # Resources
 
-- [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme)
-- [Tabor Gatsby Theme](https://github.com/zgordon/tabor-gatsby-theme)
+
+- [Gatsby and WordPress – best friends or foes?](https://muhammad.dev/blog/gatsby-and-wordpress-best-friends-or-foes)
+- [Tutorial on creating a Gatsby Theme based on Twenty Nineteen WordPress Theme](https://javascriptforwp.com/porting-the-twenty-nineteen-wordpress-theme-to-gatsby/)
 - [To create Presentations with Gatsby + Markdown](https://github.com/fabe/gatsby-starter-deck)
 
 ---
