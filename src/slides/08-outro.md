@@ -34,6 +34,7 @@
 - [Gatsby and WordPress – best friends or foes?](https://muhammad.dev/blog/gatsby-and-wordpress-best-friends-or-foes)
 - [Tutorial on creating a Gatsby Theme based on Twenty Nineteen WordPress Theme](https://javascriptforwp.com/porting-the-twenty-nineteen-wordpress-theme-to-gatsby/)
 - [To create Presentations with Gatsby + Markdown](https://github.com/fabe/gatsby-starter-deck)
+- [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
 
 ---
 

@@ -1,9 +1,9 @@
 # 2. Using WPGraphQL
 
-- Install gatsby-source-graphql
+- Install [gatsby-source-graphql](https://www.gatsbyjs.org/packages/gatsby-source-graphql/)
 - Fetches from GraphQL
 - Stitches data into GraphQL schema
-- Needs WPGraphQL plugin
+- Needs [WPGraphQL](http://wpgraphql.com) plugin
 - Faster
 - More scalable
 
